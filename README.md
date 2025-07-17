@@ -17,4 +17,4 @@ No cabeçalho, identifiquei um problema de entroncamento na parte do botão de f
 - Alterei o cabeçalho, apresentando duas opções de solução para o problema do fechamento e do texto misturado.
 - Modifiquei o botão "Saiba Mais", deixando-o com um visual mais limpo, mas ainda destacado, utilizando sombreamentos e efeitos esfumaçados ao redor para manter o foco sem quebrar a harmonia visual.
 
-![Projeto Modificado 1](./POP-UP MODIFICADO 1 PAG.png)
+![Projeto Modificado 1](POP-UP MODIFICADO 1 PAG.png)
