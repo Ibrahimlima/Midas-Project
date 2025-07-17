@@ -30,3 +30,64 @@ No cabeçalho, identifiquei um problema de entroncamento na parte do botão de f
 - Pop-up dentro da landing page
 
 
+
+
+
+
+
+
+
+# Projeto Landing Page - Residencial Bela Vista
+
+## Sobre o Projeto
+
+Este projeto consiste na criação de uma **Landing Page** para o **Residencial Bela Vista**, com o objetivo de apresentar o empreendimento de forma clara, atrativa e funcional para os visitantes.
+
+A identidade visual da página foi desenvolvida com base nas cores da própria marca, priorizando o tom azul presente na logo, por ser a cor que melhor harmoniza com a proposta visual do residencial. O layout foi pensado para transmitir organização, profissionalismo e fácil navegação.
+
+---
+
+## Estrutura e Funcionalidades
+
+### Cabeçalho (Header)
+O cabeçalho contém um menu de navegação com sessões que direcionam o usuário de forma fluida ao conteúdo da página, promovendo uma experiência intuitiva e rápida.
+
+### Seção "Sobre o Residencial"
+A seção que apresenta o Residencial utiliza uma imagem em destaque como **plano de fundo**, estrategicamente escolhida para reforçar a mensagem da seção. A imagem transmite sofisticação e ajuda a ambientar o usuário dentro da proposta do empreendimento.
+
+### Seção "Destaques do Empreendimento"
+Foi elaborada uma **listagem dos diferenciais** e características principais oferecidas pelo Bela Vista, como comodidades e infraestrutura. Esta parte conta também com um **carrossel de imagens em formato vertical**, que oferece uma apresentação dinâmica e esteticamente agradável.
+
+### Seção "Contato"
+Disponibiliza um **formulário simples e completo**, com campos bem definidos para facilitar o preenchimento. O objetivo foi garantir usabilidade e acessibilidade, mesmo para usuários com menor familiaridade com tecnologia.
+
+### Rodapé (Footer)
+Por fim, o rodapé inclui **links para redes sociais** do Residencial Bela Vista, possibilitando aos usuários conhecerem mais sobre o projeto e acompanharem suas atualizações em diferentes canais.
+
+
+<img width="1024" height="3045" alt="Landing Page Midas" src="https://github.com/user-attachments/assets/82ce941b-551c-42f3-b575-a378e5fe133d" />
+
+
+
+
+
+
+
+
+
+
+## 🛠️ Tecnologias Utilizadas
+
+- Figma
+
+### 👨‍💻 Autor
+
+[Bruno Barros de Lima]  
+[https://www.linkedin.com/in/bruno-barros-de-lima-66a122254/]  
+[brunob.ibrahimlima@gmail.com]
+
+
+
+
+
+
